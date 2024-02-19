@@ -1,22 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alan Abreu
+[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alan Abreu]
 ==================================================================================================================================
 
 Devops/Cloud Engineer
 ---------------------
 
-Olá, sou um engenheiro DevOps apaixonado pela interseção entre desenvolvimento, operações e arquitetura de sistemas na nuvem. Com vasta experiência em ambientes de alta disponibilidade e escaláveis, especializei-me em otimizar pipelines de CI/CD, infraestrutura como código (IaC) e estratégias de monitoramento e resiliência para sistemas complexos.
+Olá, atuo como engenheiro DevOps com forte interesse na integração entre desenvolvimento, operações e arquitetura de sistemas em ambientes de nuvem. Possuo experiência significativa em trabalhar com sistemas que demandam alta disponibilidade e escalabilidade. Desenvolvi habilidades em aprimorar pipelines de CI/CD, aplicar práticas de Infraestrutura como Código (IaC) e implementar soluções de monitoramento e resiliência para enfrentar os desafios de sistemas complexos.
+
+Hello, I work as a DevOps engineer with a strong interest in integrating development, operations, and system architecture in cloud environments. I have significant experience working with systems that require high availability and scalability. I have developed skills in enhancing CI/CD pipelines, applying Infrastructure as Code (IaC) practices, and implementing monitoring and resilience solutions to address the challenges of complex systems.
 
 * 🌍  I'm based in Fortaleza/Ce
 * ✉️  You can contact me at [iam.alan.abreu@gmail.com](mailto:iam.alan.abreu@gmail.com)
-* 🧠  I'm learning Azure 104 Administrator
+* 🧠  Actually, I'm learning about Azure 104 Administrator
 
 ### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
+![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![AzureDevops](https://img.shields.io/badge/AzureDevops-330F63?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### Socials
 
