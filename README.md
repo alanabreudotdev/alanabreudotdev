@@ -10,7 +10,7 @@ Hello, I work as a DevOps engineer with a strong interest in integrating develop
 
 * 🌍  I'm based in Fortaleza/Ce
 * ✉️  You can contact me at [iam.alan.abreu@gmail.com](mailto:iam.alan.abreu@gmail.com)
-* 🧠  Actually, I'm learning about Azure 104 Administrator
+* 🧠  Actually, I'm learning about Azure 400 DevOps
 
 ### Skills
 ![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
